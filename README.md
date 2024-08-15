@@ -1,6 +1,7 @@
 This project focuses on creating a ATM machince using (OOP) in python.
 
 #How to use ATM.
+
 //step 1// First run the code to prompt the terminal and enter your 4 didgit pin and enter 
 your balance amount.
 
